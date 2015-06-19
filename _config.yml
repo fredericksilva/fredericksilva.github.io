@@ -1,0 +1,14 @@
+# Site settings
+title: Frederick Silva
+email: devfrederick@gmail.com
+description: > # Frontend developer, doctor, entrepreneur
+  Sou apaixonado por design e desenvolvimento, encontrei no frontend uma forma de unir todas as minhas paixões
+  e me divirto trabalhando.
+url: "http://fredericksilva.github.io" 
+twitter_username: fredericksilva
+github_username:  fredericksilva
+linkidin_username: frederickinrio
+instagram_username: fredericksilva
+
+# Build settings
+markdown: kramdown
