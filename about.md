@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Frederick, quem? de onde vem?
+title:  about
 permalink: /about/
 ---
 
