@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Gratidão a comunidade!"
+date: 2016-09-11 07:54:00
+categories: life
+---
+
+Sou um consumidor de códigos e iformações, atualmente sou granto a todos que um dia escrever um hello world, uma ' e um tab. Aqueles que ficão até tarde em suas agencias para solucionar problemas e bugs. Sou grato a cada ser humano que deixou o seu codigo aberto aqui no github. Sem vocês eu nada seria :heart:.
+
+Toda Luz do mundo é o que eu desejo a vocês.
+
+Pretento atualizar essa pagina sempre, mas precisamente nesse [link][site] e escrevo alguns relatos lá no [medium][medium] tiro algumas fotos no [instagram][fotos]. Mas o melhor dos mundos esta aqui [Meu Github][codigos].
+
+Obrigado! 
+
+[site]:      http://fredericksilva.com
+[medium]:   https://medium.com/fredericksilva
+[codigos]: https://github.com/fredericksilva
+[fotos]: http://instagram.com/fredericksilva
