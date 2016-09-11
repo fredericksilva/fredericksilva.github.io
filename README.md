@@ -1,2 +1,2 @@
-# [FrederickSilva.com](http://www.fredericksilva.com)
--- @Frederick Silva --- Frontend Developer
+# [FrederickSilva](http://www.fredericksilva.com)
+-- @Frederick Silva --- Creative Developer
