@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title:  Frederick, quem? de onde vem?
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Um breve resumo sobre mim!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Sou Nilopolitano, Nascido na baixada fluminense no municipio de [Nilopolis](https://pt.wikipedia.org/wiki/Nil%C3%B3polis) e criado em um bairro do suburbio do rio de janeiro I <3 ZN [Anchieta](https://pt.wikipedia.org/wiki/Anchieta_(bairro_do_Rio_de_Janeiro)).
+Desde 1991 problematizando o mundo :P
